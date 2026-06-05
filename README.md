@@ -104,7 +104,7 @@ yogesh = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yogsgehlot&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Trophies"/>
+![trophy](./trophy.svg)
 
 </div>
 
