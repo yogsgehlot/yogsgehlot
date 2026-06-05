@@ -104,7 +104,7 @@ yogesh = {
 
 <div align="center">
 
-![trophy](./trophy.svg)
+[![trophy](./trophy.svg)](https://github-profile-trophy.vercel.app/?username=yogsgehlot&theme=onedark)
 
 </div>
 
