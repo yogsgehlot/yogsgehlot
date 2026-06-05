@@ -1,6 +1,7 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Yogesh+Gehlot+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Backend+Dev;Building+the+future+with+code+%F0%9F%A4%96;Sometimes+you+gotta+run+before+you+walk+%E2%9C%85)](https://git.io/typing-svg)
+<!-- Typing SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Yogesh+Gehlot+%F0%9F%91%8B;AI%2FML+Engineer+%7C+Backend+Dev;Building+the+future+with+code+%F0%9F%A4%96;Sometimes+you+gotta+run+before+you+walk+%E2%9C%85)](https://git.io/typing-svg)
 
 <img src="https://avatars.githubusercontent.com/u/75558691?v=4" width="130" style="border-radius: 50%;" alt="Yogesh Gehlot"/>
 
@@ -86,15 +87,14 @@ yogesh = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogsgehlot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF&text_color=ffffff" alt="Yogesh's GitHub Stats"/>
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogsgehlot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=ffffff" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yogsgehlot&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogsgehlot&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://nirzak-streak-stats.vercel.app?user=yogsgehlot&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=F472B6&currStreakLabel=00F7FF" alt="GitHub Streak"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yogsgehlot&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
 
@@ -104,7 +104,7 @@ yogesh = {
 
 <div align="center">
 
-[![trophy](./trophy.svg)](https://github-profile-trophy.vercel.app/?username=yogsgehlot&theme=onedark)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yogsgehlot&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -114,7 +114,7 @@ yogesh = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yogsgehlot&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00F7FF&line=7C3AED&point=F472B6" alt="Contribution Graph"/>
+[![Yogesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogsgehlot&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
